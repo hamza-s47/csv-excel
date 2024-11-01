@@ -1,9 +1,12 @@
 chardet==5.2.0
+et_xmlfile==2.0.0
 lml==0.1.0
 numpy==2.1.2
+openpyxl==3.1.5
 pandas==2.2.3
 pyexcel==0.7.0
 pyexcel-io==0.6.6
+pyexcel-xlsx==0.6.0
 python-dateutil==2.9.0.post0
 pytz==2024.2
 six==1.16.0
