@@ -46,6 +46,7 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.xlsx
+*.csv
 *.cover
 *.py,cover
 .hypothesis/
